@@ -1,6 +1,5 @@
-![](https://github.com/mahmoudjobeel1/mahmoudjobeel1/blob/main/images/1642005263619.jpg)
 
-## Mahmoud Jobeel
+## Hi, I'm Mahmoud Jobeel 👋👨‍💻
 ![](https://github.com/mahmoudjobeel1)
 
 I am a Computer Science and Engineering student at The German University in Cairo. I am interested in problem solving and data science field. Looking for part-time/remote/internship opportunities to gain more experience and knowledge. I describe myself as, I am slow walker, but I never walk backwards.
